@@ -17,12 +17,11 @@ body main {
     font-family: 'Outfit', sans-serif;
 }
 body main section {
-    text-align: center;
-}
-body main section {
     background-color: hsl(0, 0%, 100%);
     border-radius: 20px;
     width: 320px;
+    text-align: center;
+    box-shadow: 3px 3px 10px 5px rgba(0, 0, 0, 0.1);
 }
 body main section img {
     display: block;
