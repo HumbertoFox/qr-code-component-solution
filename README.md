@@ -4,7 +4,7 @@ Esta é uma solução para o [QR code component challenge on Frontend Mentor](ht
 Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
 
 <div align="center">
-  <img src="https://github.com/HumbertoFox/repository/assets/126817628/67c8ae24-c0e8-497f-b45e-1c85aff3e30d" width="500px"/>
+  <img src="https://github.com/HumbertoFox/repository/assets/126817628/716d606b-b3c3-4e88-99f3-5133d8799085" width="500px"/>
 </div>
 
 ### Construído com
